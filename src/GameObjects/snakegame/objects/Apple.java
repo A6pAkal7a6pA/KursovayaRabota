@@ -1,6 +1,5 @@
 package GameObjects.snakegame.objects;
 
-
 import gm.snakegame.SnakeGame;
 
 public class Apple {
